@@ -1,6 +1,6 @@
 # Hi 👋, I'm Manisha Choudhary
 
-☕ Java Backend Developer | ☁️ AWS Learner | 🧠 DSA Enthusiast
+🎓 Computer Science Student | ☕ Aspiring Java Backend Developer | ☁️ AWS Cloud Explorer
 
 [🔗 LinkedIn](https://www.linkedin.com/in/manisha-choudhary-a3787534a/) • [📧 Email](mailto:manisha702091@gmail.com) • [🐙 GitHub](https://github.com/manishachoudhary11)
 
@@ -12,16 +12,15 @@
 
 💻 Aspiring Java Backend Developer passionate about building real-world applications
 
-🧠 Currently learning Java Backend Development, Spring Boot, and Data Structures & Algorithms
+☕ Currently learning Java Backend Development, Spring Boot, and REST APIs
 
 ☁️ Exploring AWS Cloud and System Design fundamentals
 
 👯 Open to internships, open-source contributions, and collaborative projects
 
-🚀 Focused on improving problem-solving skills and software development practices
+🚀 Focused on improving software development and problem-solving skills
 
 ⚡ Interested in Backend Development, Cloud Computing, and scalable systems
-
 
 ---
 
@@ -50,6 +49,8 @@ Git • GitHub • Postman • VS Code
 ## 🌱 Currently Learning
 
 📌 Spring Boot
+
+📌 REST API Development
 
 📌 Data Structures & Algorithms
 
