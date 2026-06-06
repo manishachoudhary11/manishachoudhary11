@@ -8,15 +8,20 @@
 
 ## 💫 About Me
 
-💻 Backend-focused developer building scalable applications
+🎓 B.Tech Computer Science Engineering Student
 
-☕ Working with Java, Spring Boot & REST APIs
+💻 Aspiring Java Backend Developer passionate about building real-world applications
 
-🧠 Strong interest in Data Structures & Algorithms
+🧠 Currently learning Java Backend Development, Spring Boot, and Data Structures & Algorithms
 
-☁️ Exploring Cloud Technologies & System Design
+☁️ Exploring AWS Cloud and System Design fundamentals
 
-🚀 Building real-world projects and continuously improving engineering skills
+👯 Open to internships, open-source contributions, and collaborative projects
+
+🚀 Focused on improving problem-solving skills and software development practices
+
+⚡ Interested in Backend Development, Cloud Computing, and scalable systems
+
 
 ---
 
