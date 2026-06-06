@@ -1,6 +1,6 @@
 # Hi 👋, I'm Manisha Choudhary
 
-🎓 Computer Science Student | ☕ Aspiring Java Backend Developer | ☁️ AWS Cloud Explorer
+🎓 Computer Science Student | ☕ Aspiring Java Backend Developer | ☁️ AWS Cloud Learner
 
 [🔗 LinkedIn](https://www.linkedin.com/in/manisha-choudhary-a3787534a/) • [📧 Email](mailto:manisha702091@gmail.com) • [🐙 GitHub](https://github.com/manishachoudhary11)
 
@@ -10,7 +10,7 @@
 
 🎓 B.Tech Computer Science Engineering Student
 
-💻 Aspiring Java Backend Developer passionate about building real-world applications
+💻 Passionate about building real-world applications and backend systems
 
 ☕ Currently learning Java Backend Development, Spring Boot, and REST APIs
 
