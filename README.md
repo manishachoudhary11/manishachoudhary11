@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Manisha Choudhary
 
-<!--
-**manishachoudhary11/manishachoudhary11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☕ Java Backend Developer | ☁️ AWS Learner | 🧠 DSA Enthusiast
 
-Here are some ideas to get you started:
+[🔗 LinkedIn](https://www.linkedin.com/in/manisha-choudhary-a3787534a/) • [📧 Email](mailto:manisha702091@gmail.com) • [🐙 GitHub](https://github.com/manishachoudhary11)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💫 About Me
+
+💻 Backend-focused developer building scalable applications
+
+☕ Working with Java, Spring Boot & REST APIs
+
+🧠 Strong interest in Data Structures & Algorithms
+
+☁️ Exploring Cloud Technologies & System Design
+
+🚀 Building real-world projects and continuously improving engineering skills
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+Java • C • C++ • Python • JavaScript • SQL
+
+**Backend**
+Spring Boot • REST APIs • JWT Authentication
+
+**Frontend**
+HTML • CSS • JavaScript • Thymeleaf
+
+**Database**
+MySQL
+
+**Cloud**
+AWS (Learning)
+
+**Tools**
+Git • GitHub • Postman • VS Code
+
+---
+
+## 🌱 Currently Learning
+
+📌 Spring Boot
+
+📌 Data Structures & Algorithms
+
+📌 System Design Fundamentals
+
+📌 AWS Cloud
